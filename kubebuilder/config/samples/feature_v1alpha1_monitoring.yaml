@@ -1,0 +1,7 @@
+apiVersion: feature.kublr.com/v1alpha1
+kind: Monitoring
+metadata:
+  name: monitoring-sample
+spec:
+  # Add fields here
+  foo: bar

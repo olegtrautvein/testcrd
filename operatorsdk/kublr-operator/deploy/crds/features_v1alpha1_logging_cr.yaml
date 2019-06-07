@@ -1,0 +1,7 @@
+apiVersion: features.kublr.com/v1alpha1
+kind: Logging
+metadata:
+  name: example-logging
+spec:
+  # Add fields here
+  size: 3

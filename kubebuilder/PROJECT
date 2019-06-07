@@ -1,0 +1,13 @@
+version: "2"
+domain: kublr.com
+repo: example
+resources:
+- group: feature
+  version: v1alpha1
+  kind: Logging
+- group: feature
+  version: v1alpha1
+  kind: Monitoring
+- group: feature
+  version: v1alpha1
+  kind: Ingress
